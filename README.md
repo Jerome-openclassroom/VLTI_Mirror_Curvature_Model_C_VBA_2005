@@ -100,5 +100,4 @@ Now part of the **Lyra Projects Archive** — merging environmental science, AI,
 🔗 **See also my related work on GitHub**:
 [Main GitHub profile](https://github.com/Jerome-openclassroom)  
 - [Related project: AI applied to Astrophysics](https://github.com/Jerome-openclassroom/AI_Astrophysics)  
-- [Related project: VLTI Mirror Curvature Modeling (VBA, 2005)](https://github.com/Jerome-openclassroom/VLTI_Mirror_Curvature_Model_C_VBA_2005)  
 - [Related project: Artisan Spectroscopy & Plasma Physics](https://github.com/Jerome-openclassroom/Artisan_Spectroscopy_Plasma_Physics)
