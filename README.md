@@ -101,3 +101,5 @@ Now part of the **Lyra Projects Archive** — merging environmental science, AI,
 [Main GitHub profile](https://github.com/Jerome-openclassroom)  
 - [Related project: AI applied to Astrophysics](https://github.com/Jerome-openclassroom/AI_Astrophysics)  
 - [Related project: Artisan Spectroscopy & Plasma Physics](https://github.com/Jerome-openclassroom/Artisan_Spectroscopy_Plasma_Physics)
+- [Related project: Lyra SunTrack](https://github.com/Jerome-openclassroom/Lyra_SunTrack)  
+
